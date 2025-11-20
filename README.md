@@ -1,1 +1,1 @@
-This is a README
+Practice using Git for obss2025
